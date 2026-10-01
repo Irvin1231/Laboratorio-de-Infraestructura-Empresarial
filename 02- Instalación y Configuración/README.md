@@ -8,7 +8,7 @@ Instalar Ubuntu Server y realizar la configuración inicial del servidor, deján
 
 | Subetapa | Descripción | Estado |
 |---|---|---|
-| 2.1 | [Instalación de Ubuntu Server](./2.1-Instalacion/) | | Completada |
+| 2.1 | [Instalación de Ubuntu Server](./2.1-Instalacion/) |  Completada |
 | 2.2 | Configuración de red | Pendiente |
 | 2.3 | Configuración de SSH | Pendiente |
 | 2.4 | Usuarios y permisos | Pendiente |
