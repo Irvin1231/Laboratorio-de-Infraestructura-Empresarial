@@ -17,3 +17,4 @@ Construir una infraestructura de servidor funcional, documentando cada etapa del
 
 ## Etapas del proyecto
 1. [Evaluación del servidor](./01-Evaluacion-del-servidor/)
+2. [Instalación y configuración](./02-Instalación-y-configuración/)
