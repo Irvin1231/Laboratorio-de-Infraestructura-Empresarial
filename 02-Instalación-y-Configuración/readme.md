@@ -1,4 +1,4 @@
-# 02—Instalación y configuración
+# 02—Instalación-y-Configuración
 
 ## Objetivo
 
